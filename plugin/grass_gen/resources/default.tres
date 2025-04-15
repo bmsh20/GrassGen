@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="GrassGenConfig" load_steps=4 format=3 uid="uid://db5c5q8bwp3x2"]
+
+[ext_resource type="Script" path="res://addons/grass_gen/scripts/GrassGenConfig.cs" id="1_7m3vw"]
+[ext_resource type="Material" uid="uid://bidnf6inp5jcw" path="res://addons/grass_gen/materials/grassblade.tres" id="1_gy6l3"]
+[ext_resource type="ArrayMesh" uid="uid://c4gjrej7kv5yk" path="res://addons/grass_gen/models/grass_blade_hilod.obj" id="2_uoscg"]
+
+[resource]
+script = ExtResource("1_7m3vw")
+GrassCount = 100000
+AreaSize = 50.0
+MinScale = 0.7
+MaxScale = 1.3
+GrassMesh = ExtResource("2_uoscg")
+GrassMaterial = ExtResource("1_gy6l3")

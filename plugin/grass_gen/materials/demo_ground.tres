@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bnhfm8cskcwc"]
+
+[ext_resource type="Texture2D" uid="uid://difa7oa5c10dx" path="res://addons/grass_gen/textures/demo/light/texture_07.png" id="1_jfgya"]
+
+[resource]
+albedo_texture = ExtResource("1_jfgya")
+uv1_triplanar = true
+uv2_triplanar = true
+uv2_world_triplanar = true

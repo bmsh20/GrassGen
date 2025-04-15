@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c4gjrej7kv5yk"
+path="res://.godot/imported/grass_blade_hilod.obj-f103be22ca6507a3a5bbe2fe7310572e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/grass_blade_hilod.obj-f103be22ca6507a3a5bbe2fe7310572e.mesh"]
+
+source_file="res://addons/grass_gen/models/grass_blade_hilod.obj"
+dest_files=["res://.godot/imported/grass_blade_hilod.obj-f103be22ca6507a3a5bbe2fe7310572e.mesh", "res://.godot/imported/grass_blade_hilod.obj-f103be22ca6507a3a5bbe2fe7310572e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
